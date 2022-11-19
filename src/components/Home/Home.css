@@ -1,0 +1,20 @@
+html {margin: 0; padding: 0; scroll-behavior: smooth;}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding-right: 0 !important;
+  box-sizing: border-box;
+  /* background-color: rgb(10, 10, 10) ; */
+
+  background-image: url("../../images/pic11.jpg");
+  background-position :"center";
+  background-repeat : "no-repeat";
+  background-size : "cover";
+
+}
+
+
+
+
+
+  

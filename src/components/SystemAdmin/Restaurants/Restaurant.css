@@ -1,0 +1,170 @@
+
+
+
+.payTable, .thead,  .tdata {
+  border: 1px solid #fff;
+
+}
+.payTable, .tcell {
+    border: 1px solid #fff;
+  }
+  .payTable, .trow {
+    border: 1px solid #fff;
+      
+  }
+  .payTable, .thead{
+      text-align: center;
+  }
+
+
+  .dateOption option {
+    color: black;
+  }
+
+  
+
+
+  
+  @media (max-width: 576px){
+    .salutaion{
+      width: 40% !important;
+    }
+    .ResToggle{
+      width: 32% !important;
+    }
+    .ResNumber{
+      margin-top: 10px !important;
+      width: 100%;
+    }
+    .mapp{
+      margin-left: 20px !important;
+      margin-top: 10px !important;
+    }
+    .vatNum{
+      margin-top: 55px !important;
+    }
+    .vatValu{
+      margin-left: -75px !important;
+      margin-top: 15px;
+    }
+    .vatValue{
+      margin-left: 30px !important;
+    }
+    .Extenddate{
+      margin-top: 67px !important;
+      margin-left: -75px !important;
+      width: 100% !important;
+    }
+    .ExtendInput{
+      margin-left: 0px !important;
+    }
+    .radiusInput{
+      width: 90% !important;
+    }
+    .paymentInfo{
+      width: 100% !important;
+    }
+    .payTable{
+      margin-top: 30px !important;
+      font-size: 13px !important;
+    }
+    .UpdateRes{
+      margin-top: 1rem !important;
+      width: 40% !important;
+    }
+  }
+
+  @media (min-width: 576px) and (max-width: 768px) { 
+    .logo1 .logo-img{
+      margin-top: -15px;
+    }
+
+    .showDetail {
+      background: linear-gradient(#A31E34, #200503);
+      color: #fff;
+      margin-top: 0px;
+  }
+  .showDetail ul li .nav-item{
+  
+    background-color: black;
+    color: #fff;
+   
+  }
+  
+      .showDetail .nav-brand {
+        color: #fff;
+        font-size: 25px;
+      }
+      .nav-brand .resInfo {
+      font-size: 15px;
+
+      }
+   .showDetail .navbar-collapse {
+        background-color: black;
+        color: blanchedalmond;
+        margin-top: -10px;
+    }   
+   
+    .navbar-toggler {
+        background: #fff;
+        margin-top: -20px;
+    }
+    .form-group .salutaion{
+      width: 20% !important;
+    }
+ .RestaurantLabel{
+      font-size: 12px !important;
+    }
+    .contactField{
+      width: 123% !important;
+    }
+    .ResInput {
+      width: 12rem !important;
+    }
+    .ResStreet{
+      width: 140% !important;
+    }
+    .ResNumber{
+      margin-left: 17px;
+      width: 150%;
+    }
+    .ResCountry{
+      width: 9rem;
+    }
+    .Resmap{
+      width: 20rem;
+      font-size: 10px;
+    }
+    .ResToggle{
+      width: 25% !important;
+    }
+    .vatId{
+      width: 14rem !important;
+    }
+    .vatValue{
+      margin-top: 50px !important;
+      width: 14rem !important;
+    }
+    .validUntil{
+      width: 14rem !important;
+    }
+    .extendDate{
+      margin-top: 51px !important;
+      margin-left: -15rem !important;
+      width: 54% !important;  
+    }
+    .dateOption{
+      width: 14rem !important;
+      margin-top: 50px !important;
+    }
+    div#slider {
+      margin-top: 0rem !important;
+    }
+    div#slider figure img{
+      height: 106vh !important;
+    }
+    .home .menu{
+      width: 55% !important;
+    }
+   
+  }

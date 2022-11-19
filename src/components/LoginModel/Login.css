@@ -1,0 +1,12 @@
+.fullrow:hover {
+    background-color: silver;
+    cursor: pointer;
+ } 
+@media (max-width: 575px) { 
+ .resModel{
+     font-size: 8px !important;
+     overflow-x: auto !important;
+    width: 85% !important;
+    margin-left: -3rem !important;
+ }
+  }

@@ -1,0 +1,47 @@
+
+.AdminNavbar{
+  background: linear-gradient(#A31E34, #200503);
+
+}
+
+
+
+
+
+.nav-item .active {
+  border-bottom: 3px solid #fff;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 10px;
+}
+
+/* .dropdown {
+  margin-right: 80px;
+} */
+
+
+
+
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #a31e34;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a31e34;
+}
+
+::placeholder {
+  color: #fff;
+}

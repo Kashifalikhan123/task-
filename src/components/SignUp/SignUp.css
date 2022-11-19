@@ -1,0 +1,49 @@
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+ 
+@media (max-width: 575px) { 
+  
+    .contactPersonRadio{
+        margin-left: 1rem !important;
+    }
+    .contactField {
+        width: 60% !important;
+    margin-top: -35px !important;
+    margin-left: 9rem !important;
+    }
+    .Address {
+        width: 100% !important;
+        margin-left: -5px !important;
+    }
+      
+      }
+
+ /* Medium devices (tablets, 768px and up) */
+/* @media (min-width: 768px) {
+  
+ }  */
+
+/* // Large devices (desktops, 992px and up) */
+/* @media (min-width: 768px) and (max-width: 1400px) {
+    div#slider {
+      height: 93vh;
+  
+    }
+    div#slider figure img{
+      height: 106vh;
+    }
+  
+   }
+   */
+  /* // Extra large devices (large desktops, 1200px and up) */
+  /* @media  (min-width: 1200px) {
+    div#slider {
+      height: auto;
+  
+    }
+    div#slider figure img{
+      height: 100vh;
+    }
+   } */
